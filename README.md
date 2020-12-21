@@ -3,7 +3,11 @@ This project contains a few MCTS implementations for 2-player Cribbage, original
 
 Information Set MCTS algorithm adapted from:
 
-P. I. Cowling, E. J. Powley, and D. Whitehouse, “Information Set Monte Carlo Tree Search,” *IEEE Transactions on Computational Intelligence and AI in Games*, vol. 4, no. 2, pp. 120–143, 2012.
+P. I. Cowling, E. J. Powley, and D. Whitehouse. Information Set Monte Carlo Tree Search. *IEEE Transactions on Computational Intelligence and AI in Games*, vol. 4, no. 2, pp. 120–143, 2012.
+
+Results of experiments using these implementations were published in:
+
+R. Kelly & D. Churchill. [Comparison of Monte Carlo Tree Search Methods in the Imperfect Information Card Game Cribbage](https://www.cs.mun.ca/~z24rmk/publications/NECEC17_MCTS_Cribbage.pdf). *Proceedings of the 2017 Newfoundland Electrical and Computer Engineering Conference*, 2017.
 
 ## Instructions
 Compile and run CribbageGUI.java to play against the AI players with a really simple GUI.
